@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:gustavo.gfilho2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/gustavogabriell/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFD700)](https://www.instagram.com/gu_gabriell/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB000?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/gustavogabriell/)
+[![Instagram](https://img.shields.io/badge/Instagram-FFB000?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/gu_gabriell/)
+[![E-mail](https://img.shields.io/badge/Email-FFB000?style=for-the-badge&logo=gmail&logoColor=black)](mailto:gustavo.gfilho2@gmail.com)
 
 
 
