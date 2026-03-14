@@ -1,30 +1,32 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?Fira+Code&weight=500&size=22&pause=1000color=699CF7&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%E2%8A%B9" alt="Typing SVG" />
+  </a>
+</div>
+
+
+
+<br>
+
 # 👨🏽‍💻 Gustavo Gabriel
 
 **`Estagiário em Eficiência e Energia`**
 
 Me chamo Gustavo Gabriel da Silva, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio 2024, em rede pública. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no UNASP-SP. Sou apaixonado por tecnologia, principalmete na área de dados. Compartilho minhas conquistas e experiências no meu perfil do LinkedIn "[Gustavo Gabriel](https://www.linkedin.com/in/gustavogabriell/)".
 
-<p align="left">
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/GustavoGabii?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/GustavoGabriel007?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/GustavoGabii?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
-### 🤖 Linguagens e Tecnologias
+<img align="right" alt="Gato digitando" height="195px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZjbW83Y2NpZTQ5NnoyNjN2em14NdrpZzg5cmk1Ym12YjdxcHlweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fhAwk4DnqNgw8/giphy.gif" width="330px">
+
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:gustavo.gfilho2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/gustavogabriell/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=699CF7)](https://www.instagram.com/gu_gabriell/)
+
+
+
+###  Languages & Technologies
 
 <img 
     align="left" 
@@ -83,9 +85,10 @@ Me chamo Gustavo Gabriel da Silva, tenho 18 anos e sou natural de São Paulo. Co
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+<br/>
+<br/>
 
-<br/>
-<br/>
+---
 
 ### 📊 Estatísticas
 
