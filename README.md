@@ -5,11 +5,11 @@
 
 <img align="center" alt="" src="./src/header.png">
 
----
+#
 
 <p align="center">Me chamo Gustavo Gabriel da Silva, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio 2024, em rede pública. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no UNASP-SP. Sou apaixonado por tecnologia, principalmete na área de dados. Compartilho minhas conquistas e experiências no meu perfil do LinkedIn, podendo acessá-lo logo abaixo.
 
----
+#
 
 <img align="right" alt="Gato digitando" height="195px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZjbW83Y2NpZTQ5NnoyNjN2em14NdrpZzg5cmk1Ym12YjdxcHlweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fhAwk4DnqNgw8/giphy.gif" width="330px">
 
@@ -83,7 +83,7 @@
 <br/>
 <br/>
 
----
+#
 
 ### Estatísticas
 
