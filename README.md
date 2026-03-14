@@ -1,10 +1,11 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EAEB20&center=true&width=435&lines=Welcome+to+my+profile!+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFD700&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%E2%8A%B9+" alt="Typing SVG" /></a>
 </div>
 
 
 <img align="center" alt="" src="./src/header.png">
 
+---
 
 <p align="center">Me chamo Gustavo Gabriel da Silva, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio 2024, em rede pública. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no UNASP-SP. Sou apaixonado por tecnologia, principalmete na área de dados. Compartilho minhas conquistas e experiências no meu perfil do LinkedIn, podendo acessá-lo logo abaixo.
 
