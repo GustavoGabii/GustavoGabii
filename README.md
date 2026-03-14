@@ -11,7 +11,7 @@
 
 #
 
-<img align="right" alt="Gato digitando" height="195px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZjbW83Y2NpZTQ5NnoyNjN2em14NdrpZzg5cmk1Ym12YjdxcHlweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fhAwk4DnqNgw8/giphy.gif" width="330px">
+<img align="right" alt="Gato digitando" height="300px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZjbW83Y2NpZTQ5NnoyNjN2em14NdrpZzg5cmk1Ym12YjdxcHlweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fhAwk4DnqNgw8/giphy.gif" width="340px">
 
 <h3 align="left">Connect with me!</h3>
 
