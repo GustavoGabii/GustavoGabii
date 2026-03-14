@@ -24,7 +24,6 @@ Me chamo Gustavo Gabriel da Silva, tenho 18 anos e sou natural de São Paulo. Co
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/gustavogabriell/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=699CF7)](https://www.instagram.com/gu_gabriell/)
 
-<br>
 
 ###  Languages & Technologies
 
