@@ -2,7 +2,7 @@
 
 **`Estagiário em Energia e Eficiência`**
 
-Me chamo Gustavo Gabriel da Silva, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio 2024, em rede pública. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no UNASP-SP. Sou apaixonado por tecnologia, principalmete na área de dados. Compartilho minhas conquiistas e experiências no meu perfil do LinkedIn "[Gustavo Gabriel](https://www.linkedin.com/in/gustavogabriell/)".
+Me chamo Gustavo Gabriel da Silva, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio 2024, em rede pública. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no UNASP-SP. Sou apaixonado por tecnologia, principalmete na área de dados. Compartilho minhas conquistas e experiências no meu perfil do LinkedIn "[Gustavo Gabriel](https://www.linkedin.com/in/gustavogabriell/)".
 
 <p align="left">
     </a> 
