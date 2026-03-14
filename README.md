@@ -6,13 +6,8 @@
 
 
 
-<br>
 
-# 👨🏽‍💻 Gustavo Gabriel
-
-**`Estagiário em Eficiência e Energia`**
-
-Me chamo Gustavo Gabriel da Silva, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio 2024, em rede pública. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no UNASP-SP. Sou apaixonado por tecnologia, principalmete na área de dados. Compartilho minhas conquistas e experiências no meu perfil do LinkedIn "[Gustavo Gabriel](https://www.linkedin.com/in/gustavogabriell/)".
+<p align="center">Me chamo Gustavo Gabriel da Silva, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio 2024, em rede pública. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no UNASP-SP. Sou apaixonado por tecnologia, principalmete na área de dados. Compartilho minhas conquistas e experiências no meu perfil do LinkedIn "[Gustavo Gabriel](https://www.linkedin.com/in/gustavogabriell/)".</p>
 
 ---
 
@@ -23,6 +18,7 @@ Me chamo Gustavo Gabriel da Silva, tenho 18 anos e sou natural de São Paulo. Co
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:gustavo.gfilho2@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/gustavogabriell/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=699CF7)](https://www.instagram.com/gu_gabriell/)
+
 
 
 ###  Languages & Technologies
