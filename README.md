@@ -85,7 +85,7 @@
 #
 
 ### Estatísticas
-<a href="https://github.com/GustavoGabii"><img height="170" src="https://github-readme-stats.vercel.app/api?username=GustavoGabii&show_icons=true&theme=great-gatsby" /></a>&nbsp;&nbsp;<a href="https://github.com/GustavoGabii"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoGabii&layout=compact&langs_count=8&theme=great-gatsby" /></a>
+<a href="https://github.com/GustavoGabii"><img height="170" src="https://github-readme-stats.vercel.app/api?username=GustavoGabii&show_icons=true&theme=dark" /></a>&nbsp;&nbsp;<a href="https://github.com/GustavoGabii"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoGabii&layout=compact&langs_count=8&theme=dark" /></a>
 
 
 <picture align="center">
