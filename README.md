@@ -8,7 +8,7 @@
 
 **`Data Analytics`**
 
-<p align="center">Me chamo Gustavo Gabriel da Silva, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no ano de 2024, em rede pública. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no UNASP-SP. Sou apaixonado por tecnologia, principalmete na área de dados. Compartilho minhas experiências e conquistas no meu perfil do LinkedIn, podendo acessá-lo no link abaixo.
+<p align="center">Me chamo Gustavo Gabriel da Silva, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no ano de 2024, em rede pública. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no UNASP-SP. Sou apaixonado por tecnologia, principalmente na área de dados. Compartilho minhas experiências e conquistas no meu perfil do LinkedIn, podendo acessá-lo no link abaixo.
 
 #
 
