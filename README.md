@@ -8,7 +8,8 @@
 
 **`Data Intern`**
 
-<p align="center">Me chamo Gustavo Gabriel da Silva, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no ano de 2024, iniciando em 2025 minha jornada em tecnologia, entrando na faculdade de Análise e Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no UNASP-SP. Sou apaixonado por software e dados, atualmente atuando na área de Eficiência e Energia. Compartilho minhas experiências e conquistas no meu perfil do LinkedIn, onde você pode acessar pelo link abaixo.
+<p align="center">Me chamo Gustavo Gabriel, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no ano de 2024, iniciando em 2025 minha jornada em tecnologia, entrando na faculdade de Análise e Desenvolvimento de Sistemas. 
+Sou apaixonado por software e dados, atualmente atuo na área de Eficiência e Energia. Compartilho minhas experiências e conquistas no meu perfil do LinkedIn, onde você pode acessar pelo link abaixo.
 
 #
 
